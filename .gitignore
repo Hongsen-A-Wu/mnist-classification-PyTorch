@@ -1,0 +1,17 @@
+# MNIST dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python virtual environment
+.venv/
+venv/
+
+# PyTorch saved models
+*.pth
+*.pt
+
+# VS Code
+.vscode/
